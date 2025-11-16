@@ -16,3 +16,4 @@ Wz = 1.25 MHz
 
 We can get Rz from Ichp equation .
 
+We can get Cz and Cp from b = 1+Cz/Cp and Wz =1/RzCz 
