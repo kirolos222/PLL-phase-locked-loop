@@ -19,3 +19,7 @@ We can get Rz from Ichp equation .
 We can get Cz and Cp from b = 1+Cz/Cp and Wz =1/RzCz 
 
 <img width="1727" height="646" alt="image" src="https://github.com/user-attachments/assets/9872b3f1-c988-4d9a-b9d4-e3581d1e3776" />
+
+Vlk :
+
+<img width="998" height="667" alt="image" src="https://github.com/user-attachments/assets/4eaf20d9-c121-4a23-8d3d-68cd545d22f5" />
