@@ -16,6 +16,5 @@ there is a challenge in PFD that is the Dead Zone if the pulse is too small to s
 
 Charge Pump Test Bench:
 
-<img width="1727" height="646" alt="image" src="https://github.com/user-attachments/assets/8eab0000-f17b-4fe6-8e98-bef71339cc14" />
-
+<img width="1602" height="649" alt="image" src="https://github.com/user-attachments/assets/79178818-3e71-42c3-8f46-9258639e9141" />
 
