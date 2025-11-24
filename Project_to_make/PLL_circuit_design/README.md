@@ -10,10 +10,11 @@ PFD circuit :
 
 PFD D_flip_flop :
 
-<img width="1160" height="630" alt="image" src="https://github.com/user-attachments/assets/b4509db6-c99f-4143-bb80-00c85d87fd84" />
+<img width="1193" height="625" alt="image" src="https://github.com/user-attachments/assets/83a34ef9-dbbb-4f0f-9789-601f7a1e45df" />
 
 there is a challenge in PFD that is the Dead Zone if the pulse is too small to switch open the charge pump so we need to introduce some delay in the reset path of the PFD but that will be done after designing the charge pump itself .
 
 Charge Pump Test Bench:
 
 <img width="1727" height="646" alt="image" src="https://github.com/user-attachments/assets/8eab0000-f17b-4fe6-8e98-bef71339cc14" />
+
