@@ -6,7 +6,7 @@ first circuit is PFD circuit :
 
 PFD circuit :
 
-<img width="1259" height="618" alt="image" src="https://github.com/user-attachments/assets/77d09871-d7e6-4b71-aebe-c3dc9649c82f" />
+<img width="1313" height="641" alt="image" src="https://github.com/user-attachments/assets/752ace30-0895-4621-b711-2d44566400bc" />
 
 PFD D_flip_flop :
 
@@ -17,4 +17,5 @@ there is a challenge in PFD that is the Dead Zone if the pulse is too small to s
 Charge Pump Test Bench:
 
 <img width="1727" height="646" alt="image" src="https://github.com/user-attachments/assets/8eab0000-f17b-4fe6-8e98-bef71339cc14" />
+
 
