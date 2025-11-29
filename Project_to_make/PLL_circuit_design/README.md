@@ -6,7 +6,7 @@ first circuit is PFD circuit :
 
 PFD circuit :
 
-<img width="1693" height="646" alt="image" src="https://github.com/user-attachments/assets/0ba021b6-6602-429b-9940-dadab45704ec" />
+<img width="1625" height="495" alt="image" src="https://github.com/user-attachments/assets/3d677d32-6c9e-49e1-8011-a1f519aa3fb5" />
 
 PFD D_flip_flop :
 
@@ -18,4 +18,11 @@ Charge Pump Test Bench:
 
 <img width="1602" height="649" alt="image" src="https://github.com/user-attachments/assets/79178818-3e71-42c3-8f46-9258639e9141" />
 
+PLL VCTRL look :
+
+<img width="993" height="710" alt="image" src="https://github.com/user-attachments/assets/f4cada10-bc14-4ad4-a86b-ec314d9b471f" />
+
+PLL frequency : 
+
+<img width="1894" height="684" alt="image" src="https://github.com/user-attachments/assets/59438be8-1832-43e4-a566-bee45b595fa8" />
 
