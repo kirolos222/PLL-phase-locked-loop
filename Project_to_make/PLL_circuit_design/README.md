@@ -32,5 +32,8 @@ PFD+Charge_Pump Phase noise :
 
 Phase_error due to PFD+Charge_Pump :
 
+<img width="998" height="645" alt="image" src="https://github.com/user-attachments/assets/7814b56a-f5be-4522-8a11-d3c56a2578a3" />
+
+
 
 
