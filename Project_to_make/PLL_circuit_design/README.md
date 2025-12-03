@@ -31,9 +31,14 @@ PFD+Charge_Pump Phase noise :
 <img width="1919" height="642" alt="image" src="https://github.com/user-attachments/assets/eef4b7c0-3741-4e46-8040-805094b188e7" />
 
 Phase_error due to PFD+Charge_Pump :
+Feedback_signal_width :
 
-<img width="998" height="645" alt="image" src="https://github.com/user-attachments/assets/7814b56a-f5be-4522-8a11-d3c56a2578a3" />
+<img width="1913" height="575" alt="image" src="https://github.com/user-attachments/assets/5100bdf3-cfa6-4664-a29c-93843cb1c93e" />
 
+Refernce_signal_width :
 
+<img width="1919" height="634" alt="image" src="https://github.com/user-attachments/assets/73aeac09-a988-4e35-ae48-ee1a0242a36e" />
+
+phase error is about 21.6661 ps
 
 
