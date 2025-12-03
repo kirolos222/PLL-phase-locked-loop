@@ -16,7 +16,7 @@ there is a challenge in PFD that is the Dead Zone if the pulse is too small to s
 
 Charge Pump Test Bench:
 
-<img width="1602" height="649" alt="image" src="https://github.com/user-attachments/assets/79178818-3e71-42c3-8f46-9258639e9141" />
+<img width="619" height="450" alt="image" src="https://github.com/user-attachments/assets/ff1f6374-8239-4a0f-85a3-ddf6134b84e2" />
 
 PLL VCTRL look :
 
@@ -31,5 +31,6 @@ PFD+Charge_Pump Phase noise :
 <img width="1919" height="642" alt="image" src="https://github.com/user-attachments/assets/eef4b7c0-3741-4e46-8040-805094b188e7" />
 
 Phase_error due to PFD+Charge_Pump :
+
 
 
