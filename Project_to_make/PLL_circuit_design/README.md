@@ -26,3 +26,10 @@ PLL frequency :
 
 <img width="1894" height="684" alt="image" src="https://github.com/user-attachments/assets/59438be8-1832-43e4-a566-bee45b595fa8" />
 
+PFD+Charge_Pump Phase noise :
+
+<img width="1919" height="642" alt="image" src="https://github.com/user-attachments/assets/eef4b7c0-3741-4e46-8040-805094b188e7" />
+
+Phase_error due to PFD+Charge_Pump :
+
+
