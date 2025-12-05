@@ -41,6 +41,7 @@ Refernce_signal_width :
 
 phase error is about 21.6661 ps
 
-VCO Design :
+VCO Design : ==> asynchronous jitter
+
 
 
