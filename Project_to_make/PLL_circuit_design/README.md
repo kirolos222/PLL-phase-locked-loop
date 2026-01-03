@@ -45,7 +45,8 @@ VCO Design : I wanted to design an LC tank so i followed this playlist
 
 https://www.youtube.com/watch?v=2t3dR2PLoDI&list=PL9Trid0A4Da1lh5hRCjpYMCDADtVXA9qU&index=4
 
-Link for written notes about oscillators theory and ISF : 
+Link for written notes about oscillators theory and ISF : https://drive.google.com/drive/folders/1KcwmfuQatHjMDVVHnuXO2DlGsdnCPx6E
+
 
 
 
