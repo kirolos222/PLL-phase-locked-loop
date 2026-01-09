@@ -47,5 +47,6 @@ https://www.youtube.com/watch?v=2t3dR2PLoDI&list=PL9Trid0A4Da1lh5hRCjpYMCDADtVXA
 
 Link for written notes about oscillators theory and ISF : https://drive.google.com/drive/folders/1KcwmfuQatHjMDVVHnuXO2DlGsdnCPx6E
 
+the best way to explain limit cycle is using limit cycles that visualize it.
 
 
