@@ -47,5 +47,9 @@ https://www.youtube.com/watch?v=2t3dR2PLoDI&list=PL9Trid0A4Da1lh5hRCjpYMCDADtVXA
 
 the best way to explain limit cycle is using limit cycles that visualize it.
 
+#Oscillator design procedures : 
+
+<img width="1534" height="887" alt="image" src="https://github.com/user-attachments/assets/5dfb131f-fed0-4127-8e36-b77d5c5bf668" />
+
 
 
