@@ -49,4 +49,6 @@ the best way to explain limit cycle is using limit cycles that visualize it.
 
 also this link for professor ali hajimiri is brilliant :
 
+https://youtu.be/wByzymJ0Ppc?si=DJlanXC0hfwBPCo-
+
 
