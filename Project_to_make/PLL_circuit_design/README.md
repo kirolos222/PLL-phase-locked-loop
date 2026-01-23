@@ -47,3 +47,6 @@ https://www.youtube.com/watch?v=2t3dR2PLoDI&list=PL9Trid0A4Da1lh5hRCjpYMCDADtVXA
 
 the best way to explain limit cycle is using limit cycles that visualize it.
 
+also this link for professor ali hajimiri is brilliant :
+
+
