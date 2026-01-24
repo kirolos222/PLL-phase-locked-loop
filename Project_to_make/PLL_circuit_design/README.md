@@ -51,4 +51,7 @@ also this link for professor ali hajimiri is brilliant :
 
 https://youtu.be/wByzymJ0Ppc?si=DJlanXC0hfwBPCo-
 
+also this paper gives a good perceptive about phase noise in PLL system overall :
+
+https://designers-guide.org/analysis/PLLnoise+jitter.pdf
 
