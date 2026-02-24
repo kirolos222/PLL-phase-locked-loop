@@ -57,4 +57,5 @@ also this paper gives a good perceptive about phase noise in PLL system overall 
 https://designers-guide.org/analysis/PLLnoise+jitter.pdf
 
 VCO Design steps :
-Rp= VDD*VTH/4*PDC ==> 200 ohm at 5GHZ and VDD = 0.8 and a vth of 350m and PDC of 1mwatt
+Rp= pi*VDD*VTH/4*PDC ==> 200 ohm at 5GHZ and VDD = 0.8 and a vth of 350m and PDC of 1mwatt
+
